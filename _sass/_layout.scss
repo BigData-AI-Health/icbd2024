@@ -1,0 +1,91 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    scroll-margin-top: 66px;
+  }
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+// TODO: redefine content layout.
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
+
+
+
+.header-background {
+  position: relative;
+  height: 20em; /* Adjust height to 20em */
+  overflow: hidden; /* Hide the overflow */
+}
+
+.header-background .img {
+  background-image: url("../img/header-dc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: absolute;
+  top: -3em; /* Move the image up by half of the height difference */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40em; /* The original height of the image container */
+}
+
+.header-background .text {
+  margin-top: 1em;
+  text-align: right;
+  margin-right: 1em;
+  color: yellow !important;
+  font-weight: bold;
+  position: relative; /* Make sure it stays on top of the image */
+}
+
+.header-background .text h2 {
+  font-weight: bold;
+}
+
+.header-background .text * {
+  color: yellow !important;
+}
