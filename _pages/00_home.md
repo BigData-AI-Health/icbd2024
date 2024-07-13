@@ -37,3 +37,20 @@ The workshop is planned for one day, December 18, 2024, on the last day of the c
 
 Submission implies the willingness of at least one author to attend the workshop and present the paper. The presenter must register for the workshop before the deadline for author registration. The accepted papers will be compiled in the workshop proceedings as either a regular paper within 8 pages or a short paper within 6 pages.
 
+## Important Dates
+
+- **Paper Submission Deadline:** October 1, 2024
+
+- **Acceptance Notification:** November 4, 2024
+
+- **Camera Ready Submission Deadline:** November 20, 2024
+
+- **Workshop Date:** December 18 (Wednesday), 2024
+
+## Organizers
+
+- [Prof. Ping Chen](https://www.cs.umb.edu/~pchen/) – University of Massachusetts Boston (workshop co-chair)
+- [Prof. Scott Crouter](https://krss.utk.edu/faculty-staff/scott-e-crouter-ph-d/) - University of Tennessee Knoxville (workshop co-chair)
+- [Prof. Ed Melanson](https://som.cuanschutz.edu/Profiles/Faculty/Profile/476) - University of Colorado, Anschutz Medical Campus (workshop co-chair)
+- [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (Program co-chair)
+

@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  Big Data and AI for Healthcare # the website title (if blank, full name will be used instead) Big Data and AI for Healthcare
-first_name: ICBD
+title:  # Big Data and AI for Healthcare  the website title (if blank, full name will be used instead) Big Data and AI for Healthcare
+first_name: ICBD24
 middle_name: 
 last_name: Workshop
 email: 
