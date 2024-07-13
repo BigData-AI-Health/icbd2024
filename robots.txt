@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: /icbd2024/sitemap.xml
