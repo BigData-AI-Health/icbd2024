@@ -4,11 +4,9 @@ permalink: /cfp/
 title: Call for Papers
 
 nav: true
-nav_order: 5
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 1
+description: Workshop on Big Data and AI for Healthcare - 2024 IEEE International Conference on Big Data
 ---
-
-Call for Papers: Workshop on Big Data and AI for Healthcare - 2024 IEEE International Conference on Big Data
 
 The field of Healthcare has experienced a transformative impact due to advancements in Big Data and Artificial Intelligence. As technologies for data collection, storage, and communication evolve, the need for sophisticated analysis and application of these vast data sets is ever more critical. This workshop aims to harness the synergy from the domains of machine learning, data mining, statistics, artificial intelligence, and healthcare to foster breakthroughs in this interdisciplinary field.
 
