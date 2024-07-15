@@ -14,13 +14,13 @@ social: false # includes social icons at the bottom of the page
 
 Big Data and AI have significantly advanced the field of Healthcare in recent years. As data collection, storage, and communication technology becomes increasingly ubiquitous and sophisticated, research on Big Data and AI becomes essential for better understanding and analysis of these vast amounts of complex data. To make rapid progress in this interdisciplinary field, this workshop intends to bring together researchers from machine learning, data mining, statistics, AI, and healthcare. Submissions of papers related to methodology, design, techniques and new directions for Big Data and AI for Healthcare are welcome.
 
-#### Workshop Highlights:
+#### Workshop Highlights
 
 The workshop is planned for one day, December 18, 2024, on the last day of the conference. All submissions must present original research, not published nor currently under review for another workshop, conference, or journal. All papers must be submitted electronically. Full Papers for review must be at most 8 pages including 1 page reference in length, and short papers for review must be at most 6 pages including 1 page reference in length in the same format as Full Papers.
 
 Submission implies the willingness of at least one author to attend the workshop and present the paper. The presenter must register for the workshop before the deadline for author registration. The accepted papers will be compiled in the workshop proceedings as either a regular paper within 8 pages or a short paper within 6 pages.
 
-For detailed information about paper submissions, topics of interest, and guidelines, please visit the [Call for Papers page](./01_call.md).
+For detailed information about paper submissions, topics of interest, and guidelines, please visit the [Call for Papers page](./cfp/).
 
 ## Organizers
 
