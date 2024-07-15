@@ -4,7 +4,7 @@ permalink: /cfp/
 title: Call for Papers
 
 nav: true
-nav_order: 1
+nav_order: 2
 description: Workshop on Big Data and AI for Healthcare - 2024 IEEE International Conference on Big Data
 ---
 
@@ -31,20 +31,22 @@ We invite submissions that explore innovative approaches, methodologies, and tec
 - Machine Learning techniques for Healthcare
 - Statistics techniques for Healthcare
 
-### Submission Guidelines
+#### Submission Guidelines
 
 - **Full Papers**: Maximum of 8 pages, including 1 page for references.
 - **Short Papers**: Maximum of 6 pages, including 1 page for references.
 - All submissions must be original work not previously published or currently under review.
-- Papers must be submitted electronically via this link: [Submission Link](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S38&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
-- Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines: [Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html).
+- **Submission Link**: Papers must be submitted electronically via this link: [Submission Link](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S38&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
+- **Formatting Guidelines**: Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines: [Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html).
 
-### Important Dates
+#### Important Dates
 
 - **Paper Submission Deadline**: October 1, 2024
 - **Acceptance Notification**: November 4, 2024
 - **Camera Ready Submission Deadline**: November 20, 2024
 - **Workshop Date**: December 18, 2024
 
-For any questions, please contact: IEEE BigData 24 - Workshop on Big Data and AI for Healthcare,  
+For any questions, please contact:  
 PC Chair: Dr. Yong Zhuang (yong.zhuang@gvsu.edu).
+
+
