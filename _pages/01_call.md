@@ -34,7 +34,7 @@ We invite submissions that explore innovative approaches, methodologies, and tec
 #### Submission Guidelines
 
 - **Full Papers**: Maximum of 8 pages, including 1 page for references.
-- **Short Papers**: Maximum of 6 pages, including 1 page for references.
+- **Short Papers**: Maximum of 4 pages, including 1 page for references.
 - All submissions must be original work not previously published or currently under review.
 - **Submission Link**: Papers must be submitted electronically via this link: [Submission Link](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S38&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
 - **Formatting Guidelines**: Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines: [Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html).
@@ -43,7 +43,7 @@ We invite submissions that explore innovative approaches, methodologies, and tec
 
 - **Paper Submission Deadline**: October 1, 2024
 - **Acceptance Notification**: November 4, 2024
-- **Camera Ready Submission Deadline**: November 20, 2024
+- **Camera Ready Submission Deadline**: November 17, 2024
 - **Workshop Date**: December 18, 2024
 
 For any questions, please contact:  
