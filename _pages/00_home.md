@@ -27,5 +27,5 @@ For detailed information about paper submissions, topics of interest, and guidel
 - [Prof. Ping Chen](https://www.cs.umb.edu/~pchen/) – University of Massachusetts Boston (workshop co-chair)
 - [Prof. Scott Crouter](https://krss.utk.edu/faculty-staff/scott-e-crouter-ph-d/) - University of Tennessee Knoxville (workshop co-chair)
 - [Prof. Ed Melanson](https://som.cuanschutz.edu/Profiles/Faculty/Profile/476) - University of Colorado, Anschutz Medical Campus (workshop co-chair)
-- [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (Program Committee Chair)
-- [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (Program Committee Member)
+- [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (program committee chair)
+- [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (Program committee member)
