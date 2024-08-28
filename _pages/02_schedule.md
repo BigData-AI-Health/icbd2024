@@ -16,7 +16,7 @@ description:
 | 10:00 - 10:10  | Opening Remarks                      |
 | 10:10 - 11:00  | Invited Talk - [TBD]()               |
 | 11:00 - 11:20  | Coffee Break                         |
-| 11:20 - 12:20  | Paper Presentation - [TBD]()         |
+| 11:20 - 12:20  | Paper Presentation      |
 | 12:20 - 14:00  | Lunch                                |
 | 14:00 - 14:50  | Invited Talk - [TBD]()               |
 | 14:50 - 15:10  | Coffee Break                         |
