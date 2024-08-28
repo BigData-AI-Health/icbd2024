@@ -28,4 +28,4 @@ For detailed information about paper submissions, topics of interest, and guidel
 - [Prof. Scott Crouter](https://krss.utk.edu/faculty-staff/scott-e-crouter-ph-d/) - University of Tennessee Knoxville (workshop co-chair)
 - [Prof. Ed Melanson](https://som.cuanschutz.edu/Profiles/Faculty/Profile/476) - University of Colorado, Anschutz Medical Campus (workshop co-chair)
 - [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (program committee chair)
-- [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (Program committee member)
+- [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (program committee member)
