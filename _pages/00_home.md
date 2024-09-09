@@ -12,15 +12,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Big Data and AI have significantly advanced the field of Healthcare in recent years. As data collection, storage, and communication technology becomes increasingly ubiquitous and sophisticated, research on Big Data and AI becomes essential for better understanding and analysis of these vast amounts of complex data. To make rapid progress in this interdisciplinary field, this workshop intends to bring together researchers from machine learning, data mining, statistics, AI, and healthcare. Submissions of papers related to methodology, design, techniques and new directions for Big Data and AI for Healthcare are welcome.
+Big Data and AI have significantly advanced the field of Healthcare in recent years. As data collection, storage, and communication technology become increasingly ubiquitous and sophisticated, research on Big Data and AI has become essential for better understanding and analyzing these vast amounts of complex data. To make rapid progress in this interdisciplinary field, this workshop aims to bring together researchers from machine learning, data mining, statistics, AI, and healthcare. We welcome submissions of papers related to methodology, design, techniques, and new directions for Big Data and AI in Healthcare.
 
 #### Workshop Highlights
 
-The workshop is planned for one day, December 18, 2024, on the last day of the conference. All submissions must present original research, not published nor currently under review for another workshop, conference, or journal. All papers must be submitted electronically. Full Papers for review must be at most 8 pages including 1 page reference in length, and short papers for review must be at most 6 pages including 1 page reference in length in the same format as Full Papers.
+The workshop will be held from December 15 to 18, 2024, in Washington, DC, USA, as part of the [2024 IEEE International Conference on Big Data (IEEE Big Data 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/). We invite submissions presenting original research that has not been published or is not currently under review for another workshop, conference, or journal. Papers should be submitted electronically. Full Papers for review may be up to 8 pages, including 1 page of references, and Short Papers for review may be up to 4 pages, including 1 page of references, both following the same format.
 
-Submission implies the willingness of at least one author to attend the workshop and present the paper. The presenter must register for the workshop before the deadline for author registration. The accepted papers will be compiled in the workshop proceedings as either a regular paper within 8 pages or a short paper within 6 pages.
+Submission implies the willingness of at least one author to attend the workshop and present the paper. The presenter should register for the workshop before the author registration deadline. Accepted papers will be included in the workshop proceedings as either regular papers or short papers.
 
-For detailed information about paper submissions, topics of interest, and guidelines, please visit the [Call for Papers page](./cfp/).
+For more details about paper submissions, topics of interest, and guidelines, please visit the [Call for Papers page](./cfp/).
 
 ## Organizers
 
@@ -29,3 +29,4 @@ For detailed information about paper submissions, topics of interest, and guidel
 - [Prof. Ed Melanson](https://som.cuanschutz.edu/Profiles/Faculty/Profile/476) - University of Colorado, Anschutz Medical Campus (workshop co-chair)
 - [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (program committee chair)
 - [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (program committee member)
+- [Prof. Md Faisal Kabir](https://harrisburg.psu.edu/faculty-and-staff/md-faisal-kabir) - Pennsylvania State University Harrisburg (program committee member)
