@@ -41,9 +41,9 @@ We invite submissions that explore innovative approaches, methodologies, and tec
 
 #### Important Dates
 
-- **Paper Submission Deadline**: October 25, 2024
-- **Acceptance Notification**: November 15, 2024
-- **Camera Ready Submission Deadline**: November 23, 2024
+- **Paper Submission Deadline**: <del><span style="color:red">October 1</span></del> October 25, 2024
+- **Acceptance Notification**: <del><span style="color:red">November 4</span></del> November 15, 2024
+- **Camera Ready Submission Deadline**: <del><span style="color:red">November 17</span></del> November 23, 2024
 - **Workshop Date**: December 15 to 18, 2024 (exact day TBD)
 
 For any questions, please contact:  
