@@ -17,7 +17,7 @@ Big Data and AI have significantly advanced the field of Healthcare in recent ye
 
 #### Workshop Highlights
 
-The workshop will be held from December 15 to 18, 2024, in Washington, DC, USA, as part of the [2024 IEEE International Conference on Big Data (IEEE Big Data 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/). We invite submissions presenting original research that has not been published or is not currently under review for another workshop, conference, or journal. Papers should be submitted electronically. Full Papers for review may be up to 8 pages, including 1 page of references, and Short Papers for review may be up to 4 pages, including 1 page of references, both following the same format.
+The workshop will be held from December 15 to 18, 2024, in Washington, DC, USA (exact day TBD), as part of the [2024 IEEE International Conference on Big Data (IEEE Big Data 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/). We invite submissions presenting original research that has not been published or is not currently under review for another workshop, conference, or journal. Papers should be submitted electronically. 
 
 #### How to submit
 
