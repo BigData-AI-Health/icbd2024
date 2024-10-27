@@ -48,5 +48,3 @@ We invite submissions that explore innovative approaches, methodologies, and tec
 
 For any questions, please contact:  
 PC Chair: Dr. Yong Zhuang (yong.zhuang@gvsu.edu).
-
-
