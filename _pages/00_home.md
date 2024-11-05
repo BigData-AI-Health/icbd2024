@@ -42,7 +42,7 @@ For more details on submitting your work, including topics of interest and submi
 - [Prof. Ping Chen](https://www.cs.umb.edu/~pchen/) – University of Massachusetts Boston (workshop co-chair)
 - [Prof. Scott Crouter](https://krss.utk.edu/faculty-staff/scott-e-crouter-ph-d/) - University of Tennessee Knoxville (workshop co-chair)
 - [Prof. Ed Melanson](https://som.cuanschutz.edu/Profiles/Faculty/Profile/476) - University of Colorado, Anschutz Medical Campus (workshop co-chair)
+- [Prof. Kaixun Hua](https://kingsley1989.github.io/) - University of South Florida (workshop co-chair)
 - [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (program committee chair)
-- [Prof. Kaixun Hua](https://kingsley1989.github.io/) - University of South Florida (session chair)
 - [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (program committee member)
 - [Prof. Md Faisal Kabir](https://harrisburg.psu.edu/faculty-and-staff/md-faisal-kabir) - Pennsylvania State University Harrisburg (program committee member)
