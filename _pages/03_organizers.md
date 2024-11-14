@@ -4,7 +4,7 @@ permalink: /cm/
 title: Committee Members
 
 nav: true
-nav_order: 2
+nav_order: 4
 description: 
 ---
 
@@ -20,7 +20,7 @@ description:
 
 - [Dr. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (program committee chair)
   
-**Program Members**  
+**Program Committee Members**  
 - [Dr. Md Faisal Kabir](https://harrisburg.psu.edu/faculty-and-staff/md-faisal-kabir) - Pennsylvania State University Harrisburg
 - [Dr. Xiaoqian Zhang](https://scholar.google.com/citations?user=ia32o1IAAAAJ&hl=en/) - University of Nebraska
 - [Dr. Jiaxin Du](https://scholar.google.com/citations?hl=en&user=LvfBANYAAAAJ) - Grand Valley State University

@@ -17,7 +17,7 @@ Big Data and AI have significantly advanced the field of Healthcare in recent ye
 
 #### Workshop Highlights
 
-The workshop will be held from December 15 to 18, 2024, in Washington, DC, USA (exact day TBD), as part of the [2024 IEEE International Conference on Big Data (IEEE Big Data 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/). We invite submissions presenting original research that has not been published or is not currently under review for another workshop, conference, or journal. Papers should be submitted electronically. 
+The workshop will be held on December 15, 2024 in Washington, DC, USA, as part of the [2024 IEEE International Conference on Big Data (IEEE Big Data 2024)](https://www3.cs.stonybrook.edu/~ieeebigdata2024/). We invite submissions presenting original research that has not been published or is not currently under review for another workshop, conference, or journal. Papers should be submitted electronically. 
 
 #### How to submit
 
@@ -36,13 +36,3 @@ For more details on submitting your work, including topics of interest and submi
   </div>
 </div>
 
-
-## Organizers
-
-- [Prof. Ping Chen](https://www.cs.umb.edu/~pchen/) – University of Massachusetts Boston (workshop co-chair)
-- [Prof. Scott Crouter](https://krss.utk.edu/faculty-staff/scott-e-crouter-ph-d/) - University of Tennessee Knoxville (workshop co-chair)
-- [Prof. Ed Melanson](https://som.cuanschutz.edu/Profiles/Faculty/Profile/476) - University of Colorado, Anschutz Medical Campus (workshop co-chair)
-- [Prof. Kaixun Hua](https://kingsley1989.github.io/) - University of South Florida (workshop co-chair)
-- [Prof. Yong Zhuang](https://yong-zhuang.github.io/) - Grand Valley State University (program committee chair)
-- [Prof. Paul Hibbing](https://ahs.uic.edu/kinesiology-nutrition/directory/hibbing-paul/) - University of Illinois Chicago (program committee member)
-- [Prof. Md Faisal Kabir](https://harrisburg.psu.edu/faculty-and-staff/md-faisal-kabir) - Pennsylvania State University Harrisburg (program committee member)
