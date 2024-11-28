@@ -19,34 +19,34 @@ To book a room at the Hyatt Regency Washington on Capitol Hill, please click [he
 - **Sunday, December 15, 2024**
 - **Times are listed in Eastern Standard Time**
 
-| Time           | Event                                                               | Location                       |
-|----------------|---------------------------------------------------------------------|--------------------------------|
-| 9:00 - 9:05    | Opening Remarks                                                     | Columbia - B                   |
-| 9:05 - 10:00    | Keynote Presentation                   |
-| 10:00 - 10:30  | Coffee Break                                                        | Columbia Foyer                 |
-| 10:30 - 12:15  | Paper Presentations Session 1: Full Papers                         | Columbia - B                   |
-| 10:30 - 10:45  | Paper Presentation 1                                                | Columbia - B                   |
-| 10:45 - 11:00  | Paper Presentation 2                                                | Columbia - B                   |
-| 11:00 - 11:15  | Paper Presentation 3                                                | Columbia - B                   |
-| 11:15 - 11:30  | Paper Presentation 4                                                | Columbia - B                   |
-| 11:30 - 11:45  | Paper Presentation 5                                                | Columbia - B                   |
-| 11:45 - 12:00  | Paper Presentation 6                                                | Columbia - B                   |
-| 12:00 - 14:00  | Lunch Break (on your own)                                           | N/A                            |
-| 14:00 - 17:00  | Paper Presentations Session 2: Short Papers                    | Columbia - B                   |
-| 14:00 - 14:10  | Short Paper Presentation 1                                          | Columbia - B                   |
-| 14:10 - 14:20  | Short Paper Presentation 2                                          | Columbia - B                   |
-| 14:20 - 14:30  | Short Paper Presentation 3                                          | Columbia - B                   |
-| 14:30 - 14:40  | Short Paper Presentation 4                                          | Columbia - B                   |
-| 14:40 - 14:50  | Short Paper Presentation 5                                          | Columbia - B                   |
-| 14:50 - 15:00  | Short Paper Presentation 6                                          | Columbia - B                   |
-| 15:00 - 15:10  | Short Paper Presentation 7                                          | Columbia - B                   |
-| 15:10 - 15:20  | Short Paper Presentation 8                                          | Columbia - B                   |
-| 15:20 - 15:30  | Short Paper Presentation 9                                          | Columbia - B                   |
-| 15:30 - 15:40  | Short Paper Presentation 10                                          | Columbia - B                   |
-| 15:40 - 15:50  | Short Paper Presentation 11                                          | Columbia - B                   |
-| 15:50 - 16:00  | Short Paper Presentation 12                                          | Columbia - B                   |
-| 16:00 - 16:30  | Coffee Break                                                        | Columbia Foyer                 |
-| 16:30 - 16:40  | Short Paper Presentation 13                                          | Columbia - B                   |
-| 16:40 - 16:50  | Short Paper Presentation 14                                          | Columbia - B                   |
-| 16:50 - 17:00  | Short Paper Presentation 15                                          | Columbia - B                   |
-| 17:00 - 17:05  | Closing Remarks                                                     | Columbia - B                   |
+| **Time**        | **Event**                                                                                     | **Location**       |
+|------------------|-----------------------------------------------------------------------------------------------|--------------------|
+| **9:00 - 9:05**  | Opening Remarks                                                                               | Columbia - B       |
+| **9:05 - 9:20**  | Paper Presentations Session 1                                                                 | Columbia - B       |
+| **9:05 - 9:20**  | BigD411_8500: Tackling No-show Imbalance Problems for Healthcare Appointment Datasets         | Columbia - B       |
+| **9:20 - 9:35**  | BigD690_5077: MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records             | Columbia - B       |
+| **9:35 - 9:50**  | BigD787_2075: A Cloud-Native Approach to Hospital Price Transparency                          | Columbia - B       |
+| **9:50 - 10:00** | S38217: Deep Learning Models for Diabetic Retinopathy Detection: A Comparative Study          | Columbia - B       |
+| **10:00 - 10:30** | Coffee Break                                                                                 | Columbia Foyer     |
+| **10:30 - 10:45** | BigD875_3498: CLINICSUM: Utilizing Language Models for Generating Clinical Summaries         | Columbia - B       |
+| **10:45 - 11:00** | S38201: Explainable RNN Classification of Right Ventricular Dysfunction                      | Columbia - B       |
+| **11:00 - 11:15** | S38218: Using Speech Characteristics from Children’s Story Narratives to Detect Autism (Zoom)| Columbia - B       |
+| **11:15 - 11:30** | S38216: Explainable Vertical Federated Learning for Healthcare (Zoom)                        | Columbia - B       |
+| **11:30 - 11:45** | S38214: Preparing Wearable Data for AI-Powered Mood Prediction in HCT Patients               | Columbia - B       |
+| **11:45 - 12:00** | N264: Multi-Scale Demographic Analysis and Predictive Modeling of COVID-19 Booster Rates     | Columbia - B       |
+| **12:00 - 12:15** | S38202: Magnol.Ai - An IoMT Platform for Digital Health Research (Zoom)                      | Columbia - B       |
+| **12:15 - 12:30** | S38203: Interactive Visualization of BioMedical Data                                         | Columbia - B       |
+| **12:30 - 14:00** | Lunch Break                                                                                  | N/A                |
+| **14:00 - 15:00** | Keynote Presentation                                                                         | Columbia - B       |
+| **15:00 - 16:40** | Paper Presentations Session 2                                                                | Columbia - B       |
+| **15:00 - 15:10** | S38204: Automatic Sleep Stage Classification for Sleep Apnea Patients                        | Columbia - B       |
+| **15:10 - 15:20** | S38205: Training Variational Autoencoders for Population Synthesis with Missing Data         | Columbia - B       |
+| **15:20 - 15:30** | S38207: GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study                      | Columbia - B       |
+| **15:30 - 15:40** | S38208: Predicting TGF-β1 Inhibitors for Cardiac Fibrosis Treatment Using ML and Transformers| Columbia - B       |
+| **15:40 - 15:50** | S38211: Identifying Neurological Disorders with Explainable ML Techniques                    | Columbia - B       |
+| **15:50 - 16:00** | S38213: Reducing Subgroup Disparity in Pediatric COVID-19 Test Outcome Predictions           | Columbia - B       |
+| **16:00 - 16:30** | Coffee Break                                                                                 | Columbia Foyer     |
+| **16:30 - 16:40** | S38215: Bias and Generalizability Challenges in ML Models for Leptospirosis                  | Columbia - B       |
+| **16:40 - 17:00** | S38212: Geographical Insights into Suicide Mortality Through Spatial ML                      | Columbia - B       |
+| **17:00 - 17:05** | Closing Remarks                                                                              | Columbia - B       |
+
