@@ -32,9 +32,9 @@ To book a room at the Hyatt Regency Washington on Capitol Hill, please click [he
 | **10:45 - 11:00** | S38201: Explainable RNN Classification of Right Ventricular Dysfunction                      | Columbia - B       |
 | **11:00 - 11:15** | S38218: Using Speech Characteristics from Children’s Story Narratives to Detect Autism (Zoom)| Columbia - B       |
 | **11:15 - 11:30** | S38216: Explainable Vertical Federated Learning for Healthcare (Zoom)                        | Columbia - B       |
-| **11:30 - 11:45** | S38214: Preparing Wearable Data for AI-Powered Mood Prediction in HCT Patients               | Columbia - B       |
+| **11:30 - 11:45** | S38202: Magnol.Ai - An IoMT Platform for Digital Health Research (Zoom)                | Columbia - B       |
 | **11:45 - 12:00** | N264: Multi-Scale Demographic Analysis and Predictive Modeling of COVID-19 Booster Rates     | Columbia - B       |
-| **12:00 - 12:15** | S38202: Magnol.Ai - An IoMT Platform for Digital Health Research (Zoom)                      | Columbia - B       |
+| **12:00 - 12:15** | S38214: Preparing Wearable Data for AI-Powered Mood Prediction in HCT Patients                     | Columbia - B       |
 | **12:15 - 12:30** | S38203: Interactive Visualization of BioMedical Data                                         | Columbia - B       |
 | **12:30 - 14:00** | Lunch Break                                                                                  | N/A                |
 | **14:00 - 15:00** | Keynote Presentation                                                                         | Columbia - B       |
