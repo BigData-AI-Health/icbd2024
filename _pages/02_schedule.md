@@ -47,6 +47,6 @@ To book a room at the Hyatt Regency Washington on Capitol Hill, please click [he
 | **15:50 - 16:00** | S38213: Reducing Subgroup Disparity in Pediatric COVID-19 Test Outcome Predictions           | Columbia - B       |
 | **16:00 - 16:30** | Coffee Break                                                                                 | Columbia Foyer     |
 | **16:30 - 16:40** | S38215: Bias and Generalizability Challenges in ML Models for Leptospirosis                  | Columbia - B       |
-| **16:40 - 17:00** | S38212: Geographical Insights into Suicide Mortality Through Spatial ML                      | Columbia - B       |
+| **16:40 - 17:00** | Best Paper Award: S38212: Geographical Insights into Suicide Mortality Through Spatial ML                      | Columbia - B       |
 | **17:00 - 17:05** | Closing Remarks                                                                              | Columbia - B       |
 
