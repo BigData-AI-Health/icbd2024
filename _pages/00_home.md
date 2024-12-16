@@ -26,7 +26,7 @@ We encourage submissions from a variety of fields related to Big Data and AI for
 For more details on submitting your work, including topics of interest and submission guidelines, please visit our [Call for Papers page](./cfp/).
 
 
-#### Confirmed Speakers
+#### Keynote Speaker
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;"><img src="https://www.cs.virginia.edu/~az9eg/website/images/UVAEng_headshot.jpg" alt="Dr. Aidong Zhang" style="width:220px; border-radius: 8px;"/></div>
